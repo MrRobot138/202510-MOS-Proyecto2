@@ -8,7 +8,7 @@ El repositorio cuenta con los siguientes elementos:
 
 - datos/: es la carpeta en la cual se encuentran todos los datos para los 3 casos, es importante que al correr el caso 1 está carpeta tenga el mismo nombre y ubicación relativa. Esta carpte también cuenta con los archivos de verificación de cada caso.
 - base_case_verification.py: es el programa para verificar el caso base.
-- codigo_caso_1.ipynb: implementación del caso 1 completa con implementación de metaheuristicas
+- codigo_caso_1.ipynb: implementación del caso 1 completa
 - codigo_caso_2.ipynb: implementación del caso 2 completa
 - codigo_caso_3.ipynb: implementación del caso 3 completa
 - distance_cache.json: cache de las distancias dadas por la API usada para calcularlas. Está para mejorar el rendimiento del programa.
